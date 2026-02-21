@@ -118,6 +118,10 @@ BTech Computer Science (AI/ML) Student
 The NorthCap University
 
 ---
+## Contributors
+
+Komudi Rajput – Data analysis, ML model, integration  
+Khanak Bansal – GUI development, PDF report generation
 
 ## ⭐ Future Improvements
 
